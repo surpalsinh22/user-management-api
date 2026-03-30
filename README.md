@@ -29,16 +29,22 @@ A backend project built using **Node.js, Express, and MongoDB** that performs fu
 
 
 user-management-api/
-├── config/
-│   └── db.js
-├── models/
-│   └── userModel.js
-├── routes/
-│   └── userRoutes.js
-├── app.js
-├── server.js
-├── package.json
-└── .env (not included in repo)
+## 📁 Project Structure
+
+- config/
+  - db.js
+
+- models/
+  - userModel.js
+
+- routes/
+  - userRoutes.js
+
+- app.js
+- server.js
+- .env
+- .gitignore
+- README.md
 
 
 ---
